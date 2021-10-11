@@ -3,7 +3,7 @@ This repo contains all my work for our Political Affiliation Project
 
 ## MongoDB
 
-> csv_to_Mongo.py: responsible for reading .json files and storing them in MongoDB (also has MongoDB setup code)
+> json_to_Mongo.py: responsible for reading .json files and storing them in MongoDB (also has MongoDB setup code)
 
 ## Graph Network accumulators: 
 
